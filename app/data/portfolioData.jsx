@@ -33,7 +33,7 @@ export const portfolioData = {
       {
         degree: "ماجستير في الذكاء الاصطناعي",
         institution: "جامعة حلب، سوريا",
-        year: "2019"
+        year: "2022"
       }
     ],
     skills: {
@@ -64,7 +64,7 @@ export const portfolioData = {
           "تنفيذ نظام إدارة حالة باستخدام Redux Toolkit",
           "تنفيذ نظام مصادقة آمن باستخدام JWT"
         ],
-        link: "https://github.com/MohammedNourTeeby/CopyPlattForm.git" ,
+        link: "https://copy-platt-form.vercel.app" ,
           imageUrl: "/homepage.png" // أضف هذا الحقل
 
       }
@@ -163,7 +163,7 @@ export const portfolioData = {
           "Implemented state management with Redux Toolkit",
           "Set up secure JWT authentication flow"
         ],
-        link: "https://github.com/MohammedNourTeeby/CopyPlattForm.git",
+        link: "https://copy-platt-form.vercel.app",
           imageUrl: "/homepage.png" // أضف هذا الحقل
 
       }
